@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="B9287AD8-4" name="CMMN 1.1" version="1.0" notes="CMMN 1.1"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="CMMN 1.1::Case Plan Model(UML::Boundary)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////
+////////////////////////////////////////////////////AAAAAAAA////////////
+////////////////////////////////////////////AAAAAAAA////////////////////
+////////////////////////////////////AAAAAAAA////////////////////////////
+////////////////////////////AAAAAAAA////////////////////////////////////
+////////////////////AAAAAAAA////////////////////////////////////////////
+////////////AAAAAAAA////////////////////////////////////////////////////
+////AAAAAAAA////////////////////////////////////////////////////////AAAA
+AAAA////////////////////////////////////////////////////////AAAAAAAA////
+////////////////////////////////////////////////////AAAAAAAA////////////
+////////////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////AAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA////////////////AAAAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAXwBJAEQAIAA9ACAAdABfAG8AYgBqAGUAYwB0AC4AUABhAGMAawBhAGcA
+ZQBfAEkARAAgACAAVwBoAGUAcgBlACAAIAB0AF8AbwBiAGoAZQBjAHQALgBQAGEAYwBrAGEA
+ZwBlAF8ASQBEACAASQBOACAAKAAxADYAKQAgACAATwByAGQAZQByACAAYgB5ACAAdABfAG8A
+YgBqAGUAYwB0AC4AVABQAG8AcwAAADkAOAAwAEEAOwAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::Discretionary Stage(UML::ActivityPartition)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAAAADwMDAwMDAAAADwMDAwMDAAAADAAADwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA
+////////////////////////////////AAAAwMDAwMDAwMDAwMDAwMDAwMDA////////////
+////////////////////////////wMDAwMDAwMDAwMDAAAAD////////////////////////
+////////////////////////AAADwMDAAAAA////////////////////////////////////
+////////////////////AAAAwMDA////////////////////////////////////////////
+////////////AAAAwMDA////////////////////////////////////////////////////
+////wMDAAAAA////////////////////////////////////////////////////////wMDA
+wMDA////////////////////////////////////////////////////////AAAAwMDA////
+////////////////////////////////////////////////////AAAAwMDAAAAD////////
+////////////////////////////////////////wMDAwMDAwMDAwMDAAAAD////////////
+////////////////////////////AAADwMDAwMDAwMDAwMDAwMDAwMDA////////////////
+////////////////wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAADAAADwMDAAAADAAADwMDA
+AAADAAADwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zQ==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::Discretionary Task(UML::Activity)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAwMDA
+wMDAAAAAAAAAwMDAwMDAAAAAAAAAwMDAwMDAAAAAwMDAwMDAwMDAAAAA////////////////
+////////////////////////////////AAAAwMDAAAAA////////////////////////////
+////////////////////////////AAAAwMDA////////////////////////////////////
+////////////////////wMDAwMDA////////////////////////////////////////////
+////////////wMDAAAAA////////////////////////////////////////////////////
+////AAAAAAAA////////////////////////////////////////////////////////AAAA
+wMDA////////////////////////////////////////////////////////wMDAwMDA////
+////////////////////////////////////////////////////wMDAAAAA////////////
+////////////////////////////////////////////AAAAwMDAAAAA////////////////
+////////////////////////////////AAAAwMDAwMDAwMDAAAAAwMDAwMDAAAADAAADwMDA
+wMDAAAADAAADwMDAwMDAAAADwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zQ==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::Entry Criterion(UML::ObjectNode)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAAAAA////////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAAAAA////////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA
+////////////////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA////////
+////////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA////////////////////
+////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA////////////////////////AAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA////////////////////////////////AAAAwMDA
+wMDAwMDAwMDAwMDAwMDAAAAA////////////////////////////////AAAAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAAAAA////////////////////////AAAAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAAAAA////////////////////////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAAAAA////////////////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA
+////////////////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA////
+////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA////////AAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zQ==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::Event Listener(UML::Event)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAAAAAAAAA////////////////////////AAAAAAAAwMDAwMDAwMDAwMDAwMDAAAAAAAAA
+////////////////////////////////AAAAAAAAwMDAwMDAwMDAAAAAAAAA////////////
+AAAAAAAAAAAAAAAA////////////AAAAAAAAwMDAwMDAAAAA////////AAAAAAAA////////
+////////AAAAAAAA////////AAAAwMDAAAAA////////////AAAA////////////////////
+////AAAA////////////AAAAAAAA////////AAAA////////////////////////////////
+AAAA////////AAAAAAAA////////AAAA////////////////////////////////AAAA////
+////AAAAAAAA////////AAAA////////////////////////////////AAAA////////AAAA
+AAAA////////AAAA////////////////////////////////AAAA////////AAAAAAAA////
+////////AAAA////////////////////////AAAA////////////AAAAwMDAAAAA////////
+AAAAAAAA////////////////AAAAAAAA////////AAAAwMDAwMDAAAAAAAAA////////////
+AAAAAAAAAAAAAAAA////////////AAAAAAAAwMDAwMDAwMDAAAAAAAAA////////////////
+////////////////AAAAAAAAwMDAwMDAwMDAwMDAwMDAAAAAAAAA////////////////////
+////AAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAAwMDA
+wMDAwMDAwMDAwMDAXwBJAEQAIAA9ACAAdABfAG8AYgBqAGUAYwB0AC4AUABhAGMAawBhAGcA
+ZQBfAEkARAAgACAAVwBoAGUAcgBlACAAIAB0AF8AbwBiAGoAZQBjAHQALgBQAGEAYwBrAGEA
+ZwBlAF8ASQBEACAASQBOACAAKAAxADYAKQAgACAATwByAGQAZQByACAAYgB5ACAAdABfAG8A
+YgBqAGUAYwB0AC4AVABQAG8AcwAAADkAOAAwAEEAOwAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::Exit Criterion(UML::ObjectNode)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA
+AAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAA
+AAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMDA
+wMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA
+AAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAA
+AAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zQ==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::File Item(UML::Artifact)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDA
+AAAA////////////////////////////////////////AAAAwMDAwMDAwMDAwMDAAAAA////
+////////////////////////////////////AAAAwMDAwMDAwMDAwMDAAAAA////////////
+////////////////////////////AAAAwMDAwMDAwMDAwMDAAAAA////////////////////
+////////////////////AAAAwMDAwMDAwMDAwMDAAAAA////////////////////////////
+////////////AAAAwMDAwMDAwMDAwMDAAAAA////////////////////////////////////
+////AAAAwMDAwMDAwMDAwMDAAAAA////////////////////////////////////////AAAA
+wMDAwMDAwMDAwMDAAAAA////////////////////////////////////////AAAAwMDAwMDA
+wMDAwMDAAAAA////////////////////////////////////////AAAAwMDAwMDAwMDAwMDA
+AAAA////////////////////AAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAAAAA////
+////////////////AAAA////////////////AAAAwMDAwMDAwMDAwMDAAAAA////////////
+////////AAAA////////////AAAAwMDAwMDAwMDAwMDAwMDAAAAA////////////////////
+AAAA////////AAAAwMDAwMDAwMDAwMDAwMDAwMDAAAAA////////////////////AAAA////
+AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDA
+wMDAwMDAwMDAwMDAXwBJAEQAIAA9ACAAdABfAG8AYgBqAGUAYwB0AC4AUABhAGMAawBhAGcA
+ZQBfAEkARAAgACAAVwBoAGUAcgBlACAAIAB0AF8AbwBiAGoAZQBjAHQALgBQAGEAYwBrAGEA
+ZwBlAF8ASQBEACAASQBOACAAKAAxADYAKQAgACAATwByAGQAZQByACAAYgB5ACAAdABfAG8A
+YgBqAGUAYwB0AC4AVABQAG8AcwAAADkAOAAwAEEAOwAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::Milestone(UML::Event)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAAAAAAAAA////////////////////////////
+////////////AAAAAAAAwMDAwMDAAAAA////////////////////////////////////////
+////////AAAAwMDAAAAA////////////////////////////////////////////////////
+////AAAAAAAA////////////////////////////////////////////////////////AAAA
+wMDAAAAA////////////////////////////////////////////////AAAAwMDAwMDAAAAA
+AAAA////////////////////////////////////////AAAAAAAAwMDAwMDAwMDAwMDAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAZQBsAHMAPQAwADsAUAByAGkAbgB0AFAAYQBnAGUASABlAGEAZABGAG8A
+bwB0AD0AMAA7AFMAaABvAHcAQQBzAEwAaQBzAHQAPQAwADsASABhAG4AZABEAHIAYQB3AD0A
+MQA7AFMAdQBwAHAAcgBlAHMAcwBlAGQAQwBvAG0AcABhAHIAdABtAGUAbgB0AHMAPQA7AFMA
+YQB2AGUAVABhAGcAPQAzAEYARQA5ADkAOAAwAEEAOwAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::Plan Fragment(UML::ActivityPartition)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAwMDA
+wMDAAAAAAAAAwMDAwMDAAAAAAAAAwMDAwMDAAAAAwMDAwMDAwMDAAAAA////////////AAAA
+////AAAAAAAA////AAAA////////////AAAAwMDAAAAA////////////////AAAA////////
+////////AAAA////////////////AAAAwMDA////////////////AAAAAAAAAAAAAAAAAAAA
+AAAA////////////////wMDAwMDA////////////////////////////////////////////
+////////////wMDAAAAA////////////////////////////////////////////////////
+////AAAAAAAA////////////////////////////////////////////////////////AAAA
+wMDA////////////////////////////////////////////////////////wMDAwMDA////
+////////////////////////////////////////////////////wMDAAAAA////////////
+////////////////////////////////////////////AAAAwMDAAAAA////////////////
+////////////////////////////////AAAAwMDAwMDAwMDAAAAAwMDAwMDAAAADAAADwMDA
+wMDAAAADAAADwMDAwMDAAAADwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAZQBsAHMAPQAwADsAUAByAGkAbgB0AFAAYQBnAGUASABlAGEAZABGAG8A
+bwB0AD0AMAA7AFMAaABvAHcAQQBzAEwAaQBzAHQAPQAwADsASABhAG4AZABEAHIAYQB3AD0A
+MQA7AFMAdQBwAHAAcgBlAHMAcwBlAGQAQwBvAG0AcABhAHIAdABtAGUAbgB0AHMAPQA7AFMA
+YQB2AGUAVABhAGcAPQAzAEYARQA5ADkAOAAwAEEAOwAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::Stage(UML::ActivityPartition)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAAAADAAADAAADAAADAAADAAADAAADAAADwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAA
+////////////////////////////////AAAAwMDAwMDAwMDAwMDAwMDAAAAD////////////
+////////////////////////////AAADwMDAwMDAwMDAAAAD////////////////////////
+////////////////////////AAADwMDAAAAA////////////////////////////////////
+////////////////////AAAAAAAA////////////////////////////////////////////
+////////////AAAAAAAA////////////////////////////////////////////////////
+////AAAAAAAA////////////////////////////////////////////////////////AAAA
+AAAA////////////////////////////////////////////////////////AAAAAAAA////
+////////////////////////////////////////////////////AAAAwMDAAAAD////////
+////////////////////////////////////////AAADwMDAwMDAwMDAAAAD////////////
+////////////////////////////AAADwMDAwMDAwMDAwMDAwMDAAAAA////////////////
+////////////////AAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAADAAADAAADAAADAAADAAAD
+AAADAAADwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zQ==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN 1.1::Task(UML::Activity)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAAAAA////////////////
+////////////////////////////////AAAAwMDAAAAA////////////////////////////
+////////////////////////////AAAAAAAA////////////////////////////////////
+////////////////////AAAAAAAA////////////////////////////////////////////
+////////////AAAAAAAA////////////////////////////////////////////////////
+////AAAAAAAA////////////////////////////////////////////////////////AAAA
+AAAA////////////////////////////////////////////////////////AAAAAAAA////
+////////////////////////////////////////////////////AAAAAAAA////////////
+////////////////////////////////////////////AAAAwMDAAAAA////////////////
+////////////////////////////////AAAAwMDAwMDAwMDAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N
+zQ==</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CMMN elements" notes="All the available CMMN 1.1 elements" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="CMMN 1.1::Case Plan Model(UML::Boundary)" type="" description="" unit="" values="" default="Case Plan"/>
+					<Tag name="CMMN 1.1::Stage(UML::ActivityPartition)" type="" description="" unit="" values="" default="Stage"/>
+					<Tag name="CMMN 1.1::Discretionary Stage(UML::ActivityPartition)" type="" description="" unit="" values="" default="Discretionary Stage"/>
+					<Tag name="CMMN 1.1::Task(UML::Activity)" type="" description="" unit="" values="" default="Task"/>
+					<Tag name="CMMN 1.1::Discretionary Task(UML::Activity)" type="" description="" unit="" values="" default="Discretionary Task"/>
+					<Tag name="CMMN 1.1::Entry Criterion(UML::ObjectNode)" type="" description="" unit="" values="" default="Entry"/>
+					<Tag name="CMMN 1.1::Exit Criterion(UML::ObjectNode)" type="" description="" unit="" values="" default="Exit"/>
+					<Tag name="CMMN 1.1::Event Listener(UML::Event)" type="" description="" unit="" values="" default="Event Listener"/>
+					<Tag name="CMMN 1.1::File Item(UML::Artifact)" type="" description="" unit="" values="" default="Case File Item"/>
+					<Tag name="CMMN 1.1::Milestone(UML::Event)" type="" description="" unit="" values="" default="Milestone"/>
+					<Tag name="CMMN 1.1::Plan Fragment(UML::ActivityPartition)" type="" description="" unit="" values="" default="Plan Fragment"/>
+				</TaggedValues>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+	</Content>
+</UMLProfile>

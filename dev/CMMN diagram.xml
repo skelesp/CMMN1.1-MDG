@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="16F48DC6-F" name="CMMN 1.1" version="1.0" notes="CMMN 1.1"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Case plan" notes="This diagram shows a case plan in CMMN 1.1." cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Activity">
+						<Property name="alias" value="Case Plan"/>
+						<Property name="toolbox" value="CMMN 1.1"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+	</Content>
+</UMLProfile>
