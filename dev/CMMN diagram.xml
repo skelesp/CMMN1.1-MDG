@@ -7,6 +7,7 @@
 				<AppliesTo>
 					<Apply type="Diagram_Activity">
 						<Property name="alias" value="Case Plan"/>
+						<Property name="styleex" value="HideConnStereotype=1;"/>
 						<Property name="toolbox" value="CMMN 1.1"/>
 					</Apply>
 				</AppliesTo>
